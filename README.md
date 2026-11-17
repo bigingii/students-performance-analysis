@@ -50,3 +50,11 @@ This project demonstrates practical application of statistical analysis and data
 Data Science Student  
 Open University of Kenya  
 2026
+
+## Visualizations
+
+### Subject Averages
+![Subject Averages](Subject_Averages.png)
+
+### Mathematics vs Physics
+![Mathematics vs Physics](Student_Scatter_Plot.png)
